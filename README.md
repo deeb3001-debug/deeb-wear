@@ -1,2 +1,2 @@
 # deeb-wear
-bot.py
+main_bot.py
